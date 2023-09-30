@@ -1,4 +1,3 @@
-![Header](https://github.com/ivaningrigorii/ivaningrigorii/blob/main/assets/back.jpg)
-
-Now I am studying at VSTU, in the 4rd year.
-I like IT technologies. Here are collected both current projects that I am already developing, and old interesting developments. 😊🎒🖥️
+Привет!😊
+Сейчас я учусь в ВГТУ, на 4 курсе.
+Тут собраны мои интересные проекты, а так же проекты, которые мы вели или ведём целыми командами 😊🎒🖥️
